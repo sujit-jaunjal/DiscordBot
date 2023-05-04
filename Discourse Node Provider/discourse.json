@@ -1,0 +1,9 @@
+{
+	"name": "discourse",
+	"params": {
+		"username": "im_sujit"
+	},
+	"secretParams": {
+        "cookieStr": "<enter-cookies-here>"
+	}
+}
